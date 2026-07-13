@@ -1,7 +1,11 @@
 header {
     background-color: #f0f0f0;
     padding: 1rem;
-    text-align: center;
+}
+.header-style {
+    color: #333;
+    font-size: 2rem;
+    text-align:center
 }
 .logo {
     width: 50px;
