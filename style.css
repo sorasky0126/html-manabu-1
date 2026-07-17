@@ -51,6 +51,7 @@ nav ul li:first-child{
 nav {
   width: 100%;
   padding: 0px 20px !important;
+  box-sizing: border-box;
 }
 
 header {
