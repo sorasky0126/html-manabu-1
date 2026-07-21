@@ -29,7 +29,7 @@ body {
 
 .logo {
   text-align: center;
-  line-height: 0px;
+  line-height: auto;
   margin-bottom: 15px;
 }
 
